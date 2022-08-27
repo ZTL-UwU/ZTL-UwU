@@ -1,4 +1,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zhangtianli2006)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangtianli2006&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangtianli2006&layout=compact)
 
 <!--
 **zhangtianli2006/zhangtianli2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
