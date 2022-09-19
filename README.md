@@ -1,7 +1,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangtianli2006" style="width: 45%"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=zhangtianli2006&count_private=true" style="width: 45%"></img>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangtianli2006&layout=compact" style="width: 40%"></img>
 
 **Bilibili** [@zhangtianli](https://space.bilibili.com/517160710)
 
