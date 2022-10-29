@@ -1,5 +1,4 @@
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZTL-UwU" style="width: 45%"></img>
-<img src="https://github-readme-stats.vercel.app/api?username=ZTL-UwU&count_private=true" style="width: 45%"></img>
+![Code stats](https://codestats-readme.wegfan.cn/history-graph/zhangtianli?width=1000&height=300&timezone=08:00&history_days=30&max_languages=12)
 
 **Bilibili** [@ZTL-UwU](https://space.bilibili.com/517160710)
 
