@@ -5,5 +5,9 @@
   <img src="https://wakatime.com/badge/user/c6fe3c6a-b7b7-4579-838c-3597455bb62e.svg?style=flat-square" />
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZTLUwU&layout=compact&langs_count=10" />
+  <details>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZTLUwU&layout=compact&langs_count=10" />
+    </p>
+  </details>
 </p>
